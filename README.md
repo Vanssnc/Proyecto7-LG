@@ -3,4 +3,4 @@ Subi 2 archivos el primero (es este) está dentro del plazo de entrega y aunque 
 El segundo (dejo el link)
 https://github.com/Vanssnc/Proyecto7-LG-arreglado
 cumple los item y es 100% responsivo, pero está fuera de plazo.
-Igual dejaré el link por si lo quieren revisar.
+Igual dejaré el link por si lo quieren revisar https://github.com/Vanssnc/Proyecto7-LG-arreglado/deployments/github-pages.
